@@ -1,0 +1,1 @@
+#Created the project directory with a virtual environment
